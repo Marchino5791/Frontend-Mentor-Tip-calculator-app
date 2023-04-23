@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Tip calculator screenshot](./screenshot.jpg)
+![Tip calculator screenshot](https://github.com/Marchino5791/Frontend-Mentor-Tip-calculator-app/blob/main/Screenshot%202023-04-23%2019.21.34.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Marchino5791/Frontend-Mentor-Tip-calculator-app](https://github.com/Marchino5791/Frontend-Mentor-Tip-calculator-app)
+- Live Site URL: [https://marchino5791.github.io/Frontend-Mentor-Tip-calculator-app/](https://marchino5791.github.io/Frontend-Mentor-Tip-calculator-app/)
 
 ## My process
 
