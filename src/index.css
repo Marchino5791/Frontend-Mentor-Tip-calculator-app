@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: "Space Mono", monospace;
+    background-color: hsl(185, 41%, 84%);
+  }
+}
+
+@layer components {
+  /* Chrome, Safari, Edge, Opera */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Firefox */
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+
+  input[type="radio"] {
+    width: 100%;
+    -webkit-appearance: none;
+    appearance: none;
+    position: absolute;
+    z-index: -10;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+  }
+}
